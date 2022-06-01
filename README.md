@@ -1,4 +1,6 @@
-# BIMM-143-Project-2-Py11
+# BIMM-143-Project-2-Py11 
+
+#### Author: Zhou Sun
 
 ## Scientific Question
 Since the research shows that Mycobacterium Vaccae is able to stimulate mouse T lymphocytes to generate cytokines, is it possible for Mycobacterium Vaccae to stimulate human T lymphocytes to produce the same cytokines?
